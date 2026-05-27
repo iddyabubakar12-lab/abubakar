@@ -1,0 +1,21 @@
+{
+  "admin_revenue": 0,
+  "withdrawals": [],
+  "transactions": [],
+  "stories": [],
+  "slides": [],
+  "payment_config": {
+    "gateway": "SELCOM",
+    "api_key": "kijubuabu123",
+    "api_secret": "kijubuabu",
+    "merchant_id": "MC-8849204",
+    "bank_account": "31110190455",
+    "settlement_network": "NMB BANK",
+    "auto_withdraw": false
+  },
+  "public_stats": {
+    "totalUsers": 300000,
+    "onlineUsers": 3200
+  },
+  "users": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Simulizi App",
+  "description": "Programu ya kisasa ya kuuza na kusoma simulizi tamu za Kiswahili zenye mwonekano wa premium na wa kuvutia na yenye mwandishi maalum wa AI (Gemini).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
